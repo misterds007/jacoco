@@ -1,6 +1,7 @@
 JaCoCo Java Code Coverage Library
 =================================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8635eab026d14e2f89adcadf870547b2)](https://app.codacy.com/gh/misterds007/jacoco?utm_source=github.com&utm_medium=referral&utm_content=misterds007/jacoco&utm_campaign=Badge_Grade_Settings)
 [![Build Status](https://dev.azure.com/jacoco-org/JaCoCo/_apis/build/status/JaCoCo?branchName=master)](https://dev.azure.com/jacoco-org/JaCoCo/_build/latest?definitionId=1&branchName=master)
 [![Build status](https://ci.appveyor.com/api/projects/status/g28egytv4tb898d7/branch/master?svg=true)](https://ci.appveyor.com/project/JaCoCo/jacoco/branch/master)
 [![Maven Central](https://img.shields.io/maven-central/v/org.jacoco/jacoco.svg)](http://search.maven.org/#search|ga|1|g%3Aorg.jacoco)
